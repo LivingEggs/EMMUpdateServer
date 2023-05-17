@@ -1,0 +1,11 @@
+## Egg's Model Mods v2.0
+- Added an update server
+- Red soles reminiscent of classic Sonic
+- Darker blue fur to match the Sega logo
+- Less yellow skin tone closer to Sonic Adventure
+- Better chip's bracelet texture
+- New texture for the Riders glasses to also reference sonic's jet set radio outfit
+- New idle boost animation
+- Many new animations from MITOS Reanimated! 
+- Some new animations from Mito that haven't been released yet
+- Changed Super Sonics quills to the adventure quills
